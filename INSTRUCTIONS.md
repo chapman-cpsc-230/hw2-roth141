@@ -50,7 +50,8 @@ Minute Temperature
  17      50.6
  18      48.9
  19      47.3
- ```
+```
+ 
 Submit a program named `cooling.py`.
 
 This, however, is _not_ a fully accurate model of cooling. It assumes that the rate of cooling does not change between the minutes we are reporting. A more accurate model would be to change the rate $k$ which is denominated in minutes to seconds, then implement an inner loop to update the temperature for ever second. For extra credit, submit a second version,`cooling2.py` that calculates cooling on a second-by-second basis, but still reports the results for every minute. The result will differ from the previous version as follows:
@@ -79,4 +80,4 @@ Minute Temperature
  17      51.4
  18      49.7
  19      48.1
- ```
+```
