@@ -4,7 +4,7 @@ Write a program that does the following
 
 * Queries the user for a floating point number, which we will call `b` (should not be equal to `1.0`),
  and a natural number, which we will call `n`.
-* Compute the sum $1 + b + b^2 + \cdots + b^n$
+* Compute the sum $$1 + b + b^2 + \cdots + b^n$$
 * Print the result of this computation
 * Print the $\frac{b^{n+1}}{(b-1)}$
 
