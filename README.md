@@ -2,17 +2,17 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** Lydia Roth
 
-**Due date:** _\<date\>_
+**Due date:** 2/3/16
 
-## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+
+This homework involved manipulating sum powers and completing the rate of cooling.
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+I learned how to find the ith sum of a problem as well as find the rate at which something cools, while using the while loop. _
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Lydia Roth
